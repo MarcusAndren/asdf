@@ -39,7 +39,7 @@
 #----------------------------------------------------------------------------
 
 # Target file name (without extension).
-TARGET = asdf65%
+TARGET = asdf
 
 # Directory common source filess exist
 TMK_DIR = ../../tmk_core
