@@ -1,6 +1,0 @@
-echo "Hello $USER"
-echo "Today is \c" ; date
-echo "Number of user login : \c" ;who | wc -l
-echo ""
-cal
-exit 0
